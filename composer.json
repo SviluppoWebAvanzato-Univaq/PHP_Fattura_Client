@@ -1,0 +1,13 @@
+{
+   "name": "sviluppowebavanzato/fattura_rest_php_client",
+    "authors": [
+        {
+            "name": "Giuseppe Della Penna",
+            "email": "giuseppe.dellapenna@univaq.it"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "nategood/httpful": "^0.2.20"
+    }  
+}
