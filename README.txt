@@ -11,7 +11,7 @@ automatico gran parte del file, avendo cura di specificare come requirement
 il package "nategood/httpful". 
 
 4) Lanciare il comando "composer install". Questo scaricherà e installerà tutte 
-le dipendenze (Doctrine in primis) nella directory vendor/. In seguito si potrà 
+le dipendenze nella directory vendor/. In seguito si potrà 
 usare il comando "composer update" per aggiornarle.
 
 5) Provare ad accedere al servizio come esemplificato in public/index.php 
