@@ -1,4 +1,4 @@
-# FatturaREST_Client_PHP
+# PHP_Fattura_Client
 > Example client for the RESTful API "Fattura" (Invoice) developed in PHP7 with HTTPful
 
 This is a simple client for the "Fattura" (invoice) RESTful API developed during the course lectures, implemented in PHP with the HTTPful library.
